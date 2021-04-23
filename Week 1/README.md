@@ -2,7 +2,7 @@
 ## Session 1: Introductory Session
 
 
-Check the Recording [here](https://youtu.be/xynTPtc-d2E).
+***Check the Recording [here](https://youtu.be/xynTPtc-d2E).***
 
 ### Python Installation
 1) To download python Setup click [here](https://www.python.org/downloads)
