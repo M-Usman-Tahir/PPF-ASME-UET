@@ -12,10 +12,11 @@
 2) Data Types and Declaration of Variables
 3) Concatenation
 4) Conditions and if & else 
-5) For & While Loop
-6) Operators
-7) Non-Primitive Data Types
-8) User Input
-9) Functions
+5) For & While Loop and Range
+6) Break & Continue
+7) Operators
+8) Non-Primitive Data Types and NoneType
+9) User Input
+10) Functions
 
 ***Note:*** For understanding of the python syntax in an even better way, visit [w3schools](https://www.w3schools.com/python/python_syntax.asp)
