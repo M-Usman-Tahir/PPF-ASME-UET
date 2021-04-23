@@ -1,7 +1,7 @@
 # Week 2
 ## Session 2: Intro to Python Syntax
 
-***Check the recording [here](https://youtu.be/RYXAnAUcSU0).***
+***Check the recording [here](https://youtu.be/ifF-Pr9bBFY).***
 
 ### Pre-Requisites
 1) Installation of Python
