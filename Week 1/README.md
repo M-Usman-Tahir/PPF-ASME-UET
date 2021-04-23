@@ -1,4 +1,5 @@
-# Session 1: Introductory Session
+# Week 1
+## Session 1: Introductory Session
 
 
 Check the Recording [here](https://youtu.be/xynTPtc-d2E).
