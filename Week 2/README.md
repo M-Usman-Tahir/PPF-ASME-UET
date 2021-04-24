@@ -20,3 +20,22 @@
 10) Functions
 
 ***Note:*** For understanding of the python syntax in an even better way, visit [w3schools](https://www.w3schools.com/python/python_syntax.asp)
+
+## Sesion 2.5: Basic Python Functions
+
+Recording will be uploaded soon
+
+### Pre-Requisites
+1) Session 2
+
+### Agenda
+1) Leap Year  
+2) Armstrong Number  
+3) Narcissistic Number  
+4) Zipper  
+5) Distance Formula  
+6) Star Patterns  
+7) Factorial  
+8) QnA Session
+
+***Note:*** To explore more functions of python like these, visit [here](https://www.programiz.com/python-programming/examples)
