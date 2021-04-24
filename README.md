@@ -5,5 +5,6 @@
 
 ### Week 2
 1) [Basic Python Syntax (beginners)](https://github.com/M-Usman-Tahir/PPF-ASME-UET/tree/main/Week%202) 22/04/2021
+2) Simple Python Functions
 
 Sessions continue...
