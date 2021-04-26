@@ -23,7 +23,7 @@
 
 ## Sesion 2.5: Basic Python Functions
 
-Recording will be uploaded soon
+***Check the recording [here](https://youtu.be/gaPqfcY_ncs).***
 
 ### Pre-Requisites
 1) Session 2
