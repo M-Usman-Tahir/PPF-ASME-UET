@@ -26,7 +26,8 @@
 ***Check the recording [here](https://youtu.be/gaPqfcY_ncs).***
 
 ### Pre-Requisites
-1) Session 2
+1) Session 2 (Intro To Python Syntax)
+2) Jupyter Notebook
 
 ### Agenda
 1) Leap Year  
