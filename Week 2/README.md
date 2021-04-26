@@ -38,4 +38,20 @@ Recording will be uploaded soon
 7) Factorial  
 8) QnA Session
 
+### Git and Github
+1) [GitHoGya EP#1](https://www.youtube.com/watch?v=rv2opL5OTXg)  
+2) [GitHoGya EP#2](https://www.youtube.com/watch?v=nMozk3ylHQM)  
+3) [GitHoGya EP#3](https://www.youtube.com/watch?v=FYDsznDj4NE)  
+4) [GitHoGya EP#4](https://www.youtube.com/watch?v=FldpLW8TO_A)  
+
+Another ASME-UET Forum i.e. Web Dev Session on "[Introduction to Version Control & Git](https://www.youtube.com/watch?v=9kf48i_qJZY)"  
+
+
+### GitHub Desktop
+If Not from CS, CE or SE then go for GitHub Desktop.  
+[Download](https://desktop.github.com) GitHub Desktop  
+[Tutorial 1](https://www.youtube.com/watch?v=CFCh6Y-reiI) (for Installing and Use)   
+[Tutorial 2]( https://www.youtube.com/watch?v=77W2JSL7-r8)  
+
+
 ***Note:*** To explore more functions of python like these, visit [here](https://www.programiz.com/python-programming/examples)
