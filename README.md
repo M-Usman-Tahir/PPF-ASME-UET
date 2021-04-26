@@ -7,4 +7,7 @@
 1) [Basic Python Syntax (beginners)](https://github.com/M-Usman-Tahir/PPF-ASME-UET/tree/main/Week%202) 22/04/2021
 2) [Some Basic Python Functions](https://github.com/M-Usman-Tahir/PPF-ASME-UET/tree/main/Week%202) 24/04/2021
 
+### Asignment 1
+1) [Basic Python Functions](https://github.com/M-Usman-Tahir/PPF-ASME-UET/tree/main/Week%202/Assignment)
+
 Sessions continue...
