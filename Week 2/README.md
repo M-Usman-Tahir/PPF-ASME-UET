@@ -7,7 +7,7 @@
 1) Installation of Python
 2) Installation of Jupyter or any IDE supporting notebook.
 
-### Agenda
+### Agenda (Timeline mentioned in the video's description)
 1) Intro to Jupyter Notebook
 2) Data Types and Declaration of Variables
 3) Concatenation
@@ -29,7 +29,7 @@
 1) Session 2 (Intro To Python Syntax)
 2) Jupyter Notebook
 
-### Agenda
+### Agenda (Timeline mentioned in the video's description)
 1) Leap Year  
 2) Armstrong Number  
 3) Narcissistic Number  
@@ -37,7 +37,8 @@
 5) Distance Formula  
 6) Star Patterns  
 7) Factorial  
-8) QnA Session
+8) Use Of GitHub Desktop (Basic)  
+9) QnA Session
 
 ### Git and Github
 1) [GitHoGya EP#1](https://www.youtube.com/watch?v=rv2opL5OTXg)  
