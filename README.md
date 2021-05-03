@@ -10,4 +10,8 @@
 ### Asignment 1
 1) [Basic Python Functions](https://github.com/M-Usman-Tahir/PPF-ASME-UET/tree/main/Week%202/Assignment)
 
+### Week 3
+1) [OOP in Python](https://github.com/M-Usman-Tahir/PPF-ASME-UET/tree/main/Week%203)
+2) [Modules in Python](https://github.com/M-Usman-Tahir/PPF-ASME-UET/tree/main/Week%203)
+
 Sessions continue...
