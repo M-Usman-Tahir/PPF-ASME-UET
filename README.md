@@ -17,5 +17,22 @@
 ### Week 4
 1) [File Handling and Database in Python](https://github.com/M-Usman-Tahir/PPF-ASME-UET/tree/main/Week%204)
 
+### Week 5
+1) [Intro to Numpy](https://github.com/M-Usman-Tahir/PPF-ASME-UET/tree/main/Week%205)
 
-Sessions continue...
+### Assignment 2
+1) [Numpy Excercises](https://github.com/M-Usman-Tahir/PPF-ASME-UET/tree/main/Week%205/Assignment)
+
+### Week 6
+1) [Intro To Pandas](https://github.com/M-Usman-Tahir/PPF-ASME-UET/tree/main/Week%206)
+
+### Week 7
+1) [Intro To Matplotlib](https://github.com/M-Usman-Tahir/PPF-ASME-UET/tree/main/Week%207)
+
+### Week 8
+1) [Mini JARVIS project](https://github.com/M-Usman-Tahir/PPF-ASME-UET/tree/main/Week%208)
+
+### Week 9
+1) [Pathway to follow](https://github.com/M-Usman-Tahir/PPF-ASME-UET/tree/main/Week%209)
+
+Session continues...
