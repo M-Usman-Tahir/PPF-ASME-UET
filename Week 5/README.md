@@ -16,11 +16,5 @@
 7) Reorganizing/Reshaping/Slicing of arrays
 8) Conditional Masking
 
-
-<!-- ### Other Resourses
-1) [Exception Handling](https://www.programiz.com/python-programming/exception-handling) (Try Except Else Finally)  
-2) [Escape Characters](https://www.w3schools.com/python/gloss_python_escape_characters.asp)  
-3) [Modes of File Handling](https://www.geeksforgeeks.org/file-handling-python/)   -->
-
 ### Pip Installations:
 1) pip install numpy
