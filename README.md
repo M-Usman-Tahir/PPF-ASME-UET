@@ -35,5 +35,4 @@
 ### Week 9
 1) [Pathway to follow](https://github.com/M-Usman-Tahir/PPF-ASME-UET/tree/main/Week%209)
 
-
-Leave a Star If you like the repo...
+Leave a Star 🌟 If u liked the Repo 🔥
